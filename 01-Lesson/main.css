@@ -3,6 +3,18 @@ html {
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: whitesmoke;
+  color: black;
+}
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: yellowgreen;
+}
+
+a:hover, a:active {
+  color: crimson;
 }
